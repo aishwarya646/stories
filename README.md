@@ -1,4 +1,9 @@
-The Grateful Crane (鶴の恩返し)
+<html>
+<head>
+        <title> story </title>
+</head>
+<body>
+<h1>The Grateful Crane (鶴の恩返し)</h1>
 
 Once upon a time in a small village in Japan, there lived a kind and poor man who made his living by gathering firewood in the forest. One winter day, while walking in the woods, he heard a faint cry. Following the sound, he found a crane caught in a hunter’s trap. The crane's wings were wounded, and it was struggling to free itself.
 
@@ -21,3 +26,5 @@ The man waited for her return, but she never came back. He was heartbroken, real
 
 Moral:
 This story teaches a lesson about trust, the consequences of breaking promises, and the delicate balance between curiosity and respect for others. The crane symbolizes the fragility of good fortune and how it can be lost when one is not careful with what they have.
+</body>
+</html>
